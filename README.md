@@ -14,4 +14,4 @@ BroadDB is a custom database implemented in javascript.
 ### Working Screenshot
 <img src="./BroadDB.gif" />
 
-*Hope you like it* 
+*Hope you like it* 😃
