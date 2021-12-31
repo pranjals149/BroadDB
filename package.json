@@ -1,0 +1,13 @@
+{
+  "name": "BroadDB",
+  "version": "1.0.0",
+  "description": "A custom Database",
+  "main": "index.js",
+  "author": "Pranjal Srivastava",
+  "license": "None",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cookie-session": "^2.0.0",
+    "express": "^4.17.2"
+  }
+}
